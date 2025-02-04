@@ -3,16 +3,16 @@
 
         <!-- social icons -->
         <div class="w-full flex justify-between md:justify-start">
-            <span id="social-title" class="h-full flex justify-center items-center border-right px-5">
+            <!-- <span id="social-title" class="h-full flex justify-center items-center border-right px-5">
                 find me in:
-            </span>
+            </span> -->
             <div id="social-icons" class="flex">
-                <NuxtLink :to="social.twitter.url + social.twitter.user" target="_blank" class="flex justify-center items-center">
+                <!-- <NuxtLink :to="social.twitter.url + social.twitter.user" target="_blank" class="flex justify-center items-center">
                     <img src="/icons/social/twitter.svg"/>
                 </NuxtLink>
                 <NuxtLink :to="social.facebook.url + social.facebook.user" target="_blank" class="flex justify-center items-center">
                     <img src="/icons/social/facebook.svg"/>
-                </NuxtLink>
+                </NuxtLink> -->
                 <NuxtLink :to="social.github.url + social.github.user" target="_blank" class="flex md:hidden justify-center items-center">
                 <img src="/icons/social/github.svg"/>
             </NuxtLink>
