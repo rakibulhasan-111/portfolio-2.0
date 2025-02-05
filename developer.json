@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>As a Software Engineer, I have led and contributed to various projects, including the development of multiple production-ready games across platforms like Android, iOS, and Web. In my current role, I manage the complete game development lifecycle, from ideation to deployment, utilizing Unity and C# for smooth gameplay experiences. I also oversee the creation and maintenance of backend systems using Laravel, ensuring data integrity, tracking, and analytics through APIs.<br><br>In addition to my development work, I lead a team of four developers and am the sole backend developer supporting all production games. This includes optimizing server-side performance and maintaining the backend infrastructure. I’ve also trained aspiring developers in game development, mentoring them to achieve production-level readiness. My efforts have helped two trainees secure positions in the gaming industry."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I specialize in game development using Unity and C#, creating production-ready games with well-optimized game mechanics, AI, UI, animations, and physics for Android, iOS, and Web. On the backend, I develop scalable systems using Laravel and PHP, designing RESTful APIs and managing MySQL databases for game analytics, leaderboards, and user tracking. I have experience integrating third-party SDKs such as Firebase (Auth, Firestore, Remote Config), AdMob, and AppLovin for monetization and analytics. Additionally, I build admin panels and consoles for real-time data visualization and user management. With expertise in Git version control, server optimization, and performance tuning, I ensure seamless gameplay experiences and efficient backend operations."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>As a Game & Backend Developer, I thrive in problem-solving and critical thinking, ensuring smooth development and efficient debugging of complex issues. Leading a team of four, I have honed my leadership and collaboration skills, effectively managing multiple production projects while mentoring my team. My adaptability allows me to quickly learn and integrate new technologies, keeping up with industry trends. Strong time management helps me balance development, backend maintenance, and project deadlines. Additionally, my experience as a trainer has strengthened my communication skills, enabling me to explain technical concepts clearly and guide others toward production-level expertise."
                     }
                 }
             },
@@ -28,18 +28,18 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> I’m a Software Engineer specializing in Game and Backend Development with a strong focus on creating high-quality, engaging games and building robust backend systems. I thrive in environments where I can blend my technical expertise in Unity, C#, Laravel, and MySQL to deliver seamless experiences across Android, iOS, and Web platforms. My journey has involved not only crafting games but also developing scalable backend solutions and integrating various third-party SDKs like Firebase, AdMob, and AppLovin to enhance gameplay and user experience.<br><br>I am passionate about continuous learning, adaptability, and creative problem-solving, which helps me tackle complex challenges. As a team leader and mentor, I enjoy guiding others to reach their full potential, whether through hands-on development or training others to work at a production level. Currently, I am working on building my portfolio using Nuxt and Vue, which allows me to showcase both my technical and creative skills."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Outside of development, I have a deep passion for photography and cinematography, particularly street photography. I love traveling and capturing beautiful moments through the lens, whether in stills or motion, documenting the world in unique ways. My creative side extends to digital art, as I’ve also dabbled in graphic design and other forms of digital artistry. In addition to my visual creativity, I’m an avid gamer and enjoy immersing myself in new game worlds. I also love to unwind with a good book, which helps me expand my perspective and fuels my creativity."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br>I completed my Higher School in Dhaka before earning a B.Sc. in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET), Khulna. During my academic journey, I also completed my thesis in Natural Language Processing (NLP), where I explored a completely new idea that contributed to the field. This research helped solidify my interest in cutting-edge technology and innovation.",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+                            "high-school": "Shaheed Police Smrity College",
+                            "university": "Khulna University of Engineering & Technology (KUET)"
                         }
                     }
                 }
@@ -50,11 +50,11 @@
                 "info": {
                     "sports": {
                         "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I can play almost all the usual sports, but I'm particularly skilled at badminton, where I excel in both casual and competitive play. Additionally, I love to run, as it helps me stay fit and clear my mind. Sports are an important part of my life, providing both physical exercise and a sense of relaxation."
                     },
                     "favorite-games": {
                         "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br>I'm a huge game lover, which played a major role in my decision to pursue game development as a profession. There are so many games I enjoy, both online and offline. I have a deep love for the Tomb Raider series, God of War series, Assassin's Creed series, and many more. When it comes to online games, I’m an avid Dota player and love teaming up with my friends for some intense gameplay. Gaming is not just a hobby for me, it's a big part of who I am, and it continues to inspire my work in game development."
                     }
                 }
             }
@@ -64,8 +64,8 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "sefat.dev@gmail.com",
+                "phone": "+8801794040643"
             }
         },
         "social": {
