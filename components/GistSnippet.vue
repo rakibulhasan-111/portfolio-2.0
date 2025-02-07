@@ -47,28 +47,42 @@
     border-radius: 15px;
     border: 1px solid #1E2D3D;
     font-size: 12px;
-    overflow-y: scroll;
-    overflow-x: scroll;
-    max-height: 220px;
+    overflow-x: auto; /* Allow horizontal scrolling */
+    overflow-y: auto; /* Allow vertical scrolling */
+    max-height: 220px; /* Adjust as needed */
+    white-space: pre; /* Prevent text wrapping */
 }
 
 .snippet-container pre {
     margin: 0;
-    overflow: hidden;
+    overflow: auto; /* Ensure scrolling works */
     width: 100%;
     max-height: 220px;
 }
 
 .snippet-container code {
-    white-space: pre-wrap;
+    white-space: pre; /* Preserve code formatting */
     max-height: 220px;
     width: max-content;
-    overflow: hidden;
-
+    overflow: auto;
 }
 
 .snippet-container::-webkit-scrollbar {
-    display: none;  /* Safari and Chrome */
+    width: 3px; /* Decrease width */
+    height: 3px; /* Decrease height for horizontal scroll */
+}
+
+.snippet-container::-webkit-scrollbar-thumb {
+    background-color: #555; /* Scrollbar color */
+    border-radius: 3px; /* Rounded corners */
+}
+
+.snippet-container::-webkit-scrollbar-thumb:hover {
+    background-color: #777; /* Slightly lighter on hover */
+}
+
+.snippet-container::-webkit-scrollbar-track {
+    background: #011221; /* Match background */
 }
 
 pre code.hljs{
