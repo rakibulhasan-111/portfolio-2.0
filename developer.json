@@ -117,45 +117,45 @@
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_game",
+            "description": "Hyper casual game for Android.",
             "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
+            "tech": ["Unity"],
             "url": "https://github.com/"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_game",
+            "description": "Hyper casual game for iOS",
             "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
+            "tech": ["Unity"],
             "url": "https://github.com/"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_game",
+            "description": "Hyper casual game for WebGL",
             "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
+            "tech": ["Unity"],
             "url": "https://github.com/"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_backend",
+            "description": "Backend to track user data.",
             "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
+            "tech": ["Backend"],
             "url": "https://github.com/"
         },
         "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_backend",
+            "description": "Backend to show user data on admin console.",
             "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
+            "tech": ["Backend"],
             "url": "https://github.com/"
         },
         "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_backend",
+            "description": "Vue app to track user data from telegram",
             "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
+            "tech": ["Backend"],
             "url": "https://github.com/"
         }
     }
