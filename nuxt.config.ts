@@ -24,7 +24,7 @@ export default defineNuxtConfig({
     },
   },
   nitro: {
-    preset: 'github_pages',
+    preset: 'static',
   },
   modules: [
     '@nuxtjs/tailwindcss',
