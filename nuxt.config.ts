@@ -24,7 +24,7 @@ export default defineNuxtConfig({
     },
   },
   nitro: {
-    preset: 'static',
+    preset: 'github-pages',
   },
   modules: [
     '@nuxtjs/tailwindcss',
@@ -43,7 +43,8 @@ export default defineNuxtConfig({
     apiSecret: '123',
     public: {
       apiBase: '/api',
-      dev: config,
+      devName: config.name,
+      devRole: config.role,
     },
-  },
+  },  
 })
